@@ -159,7 +159,7 @@ bluetoothHciSocket.on('error', function(error) {
 
 ## Examples
 
-See [examples folder](https://github.com/sandeepmistry/node-bluetooth-hci-socket/blob/master/examples) for code examples.
+See [examples folder](https://github.com/th317erd/bluetooth-hci-socket/blob/master/examples) for code examples.
 
 ## Platform Notes
 
